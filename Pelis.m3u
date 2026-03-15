@@ -1,99 +1,93 @@
 #EXTM3U
-#EXTINF:-1  group-title="|ES| PELICULAS ACCION" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2YylVyJAG4mXAJeeg9J7zakmUy8.jpg" tvg-name="Matar o morir (1984)",Matar o morir (1984)
-http://99gopro.org:8080/movie/4640611723208466/4640611723208466/379892.mkv
-#EXTINF:-1  group-title="AMAZON PRIME VIDEO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018) DUAL",Matar o morir (Peppermint) (2018) DUAL
-http://cineplay.vip:2086/movie/Citlallysa/5JJGG6GDUf/95100.mkv
-#EXTINF:-1 ,Matar o morir (Peppermint) (2018)
-http://live.fuxxion.club:8080/movie/romeroaleja1/da4e54836675/5757.mkv
-#EXTINF:-1  group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffElbNyNDFYUNGzm2Tp4tRb39Ez.jpg" tvg-name="Matar o Morir (2018)",Matar o Morir (2018)
-http://satk.pro:2082/movie/Laurapiz/d6PzwCLmYpQv/230.mkv
-#EXTINF:-1  group-title="ES-VOD-Accion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YylVyJAG4mXAJeeg9J7zakmUy8.jpg" tvg-name="Matar o morir (1984) (ES)",Matar o morir (1984) (ES)
-http://smartersdance.com:80/movie/12hmes25040603/2152349295/107972.mkv
-#EXTINF:-1  group-title="ES-VOD-Sci-Fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YylVyJAG4mXAJeeg9J7zakmUy8.jpg" tvg-name="Matar o morir (1984) (ES)",Matar o morir (1984) (ES)
-http://smartersdance.com:80/movie/12hmes25040603/2152349295/1067719.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/3ricc4br3r/de8cf65b1718/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/Abel23/fJvkFrcgEr/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/almarose80/QzNbt6Bm9L/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/ALopez042521/U4D2esgkwi/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/AMPlaza2022/bd359a824da9/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/andy05/18e82c0d35e7/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/bedoyasantamaria1/Rm2d5YDrh6/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/bLJ3aQuLsR/6ebd21426be2/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/edaraudamendoza/w5yEqYZzyN/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/Figueroamarco31/6Y7j42GuSL/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/G5KShPsHuw/69a04a3ce68b/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/g74riqu1pu/d44c1d2295d5/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/Gir47do4ur/bc480f5950fb/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/hi7d4b4rri/fe1e4d2ce91b/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/jdonis/19316aa014c2/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/jgUyPEKGkb12/d5ca24353f0c/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/JimmyH2021/U99uV4HAGB/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/juanortiz/effcd4426bd2/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/KevinCh/7dc1cdc80c9b/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/Mkk46t7fvu/62befaed1e2e/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/PauPel06092025/sXDLXpMd7t/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/PWqvH5JSrn/47fa0c85c613/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/rUw1OzxusS/fe50283f854b/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/Sanchez90201/078db3f181da/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/w47terch4t/4f5f6f818b0a/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/ZTLVWnGvZR/peYYur8RC4/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.proyectox.vip:8080/movie/9AhwRKcpLM/ee9fddb05151/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.proyectox.vip:8080/movie/Abel23/fJvkFrcgEr/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.proyectox.vip:8080/movie/ALopez042521/U4D2esgkwi/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.proyectox.vip:8080/movie/Gabrieltobar/07c9cfcc2e77/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.proyectox.vip:8080/movie/JimmyH2021/U99uV4HAGB/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.proyectox.vip:8080/movie/Mkk46t7fvu/62befaed1e2e/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.proyectox.vip:8080/movie/w47terch4t/4f5f6f818b0a/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.zapping.life:8080/movie/ALopez042521/U4D2esgkwi/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.zapping.life:8080/movie/JGira8708/jgira8708/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.zapping.life:8080/movie/JimmyH2021/U99uV4HAGB/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.zapping.life:8080/movie/men492zajo53/eJcM9Dd8HR/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.zapping.life:8080/movie/MeybelynR/a40bb968779a/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.zapping.life:8080/movie/PaolaPlaza/0d91a58cfda9/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.zapping.life:8080/movie/Zheniortega/1c0d9cf5af1a/5757.mkv
-#EXTINF:-1  group-title=" VOD-ACCION (PLUS)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" tvg-name="Matar o morir (Peppermint) (2018)",Matar o morir (Peppermint) (2018)
-http://tv.diablotv.net:8080/movie/ZTLVWnGvZR/peYYur8RC4/5757.mkv
-#EXTINF:-1 ,Matar o Morir (2018)
-http://tvpromas.com:2082/movie/azcolom299/299504944/230.mkv
-#EXTINF:-1 ,Matar o Morir (2018)
-http://tvpromas.com:2082/movie/judithllerena/925672822/230.mkv
+#EXTINF:-1 ,Sorda (2025)
+http://live.fuxxion.club:8080/movie/romeroaleja1/da4e54836675/140259.mkv
+#EXTINF:-1  group-title="VOD ESPAÑOL 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://n37dkwmr.g3dec.xyz:80/movie/3vi114851/Kr66ak@jAwH/1177791.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/3ricc4br3r/de8cf65b1718/140259.mkv
+#EXTINF:-1  group-title="VOD-ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/Abel23/fJvkFrcgEr/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/almarose80/QzNbt6Bm9L/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/ALopez042521/U4D2esgkwi/140259.mkv
+#EXTINF:-1  group-title="VOD-ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/AMPlaza2022/bd359a824da9/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/andy05/18e82c0d35e7/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/bedoyasantamaria1/Rm2d5YDrh6/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/bLJ3aQuLsR/6ebd21426be2/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/edaraudamendoza/w5yEqYZzyN/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/Figueroamarco31/6Y7j42GuSL/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/G5KShPsHuw/69a04a3ce68b/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3OZAf9JgSfvZA7YoheVLLXRRAQ.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/g74riqu1pu/d44c1d2295d5/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/Gir47do4ur/bc480f5950fb/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/hi7d4b4rri/fe1e4d2ce91b/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/jdonis/19316aa014c2/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/jgUyPEKGkb12/d5ca24353f0c/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/JimmyH2021/U99uV4HAGB/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/juanortiz/effcd4426bd2/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3OZAf9JgSfvZA7YoheVLLXRRAQ.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/KevinCh/7dc1cdc80c9b/140259.mkv
+#EXTINF:-1  group-title="VOD-ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/Mkk46t7fvu/62befaed1e2e/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/PauPel06092025/sXDLXpMd7t/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/PWqvH5JSrn/47fa0c85c613/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/rUw1OzxusS/fe50283f854b/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/Sanchez90201/078db3f181da/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/UlloaRi2815/nqxjWPS4JZ/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/w47terch4t/4f5f6f818b0a/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3OZAf9JgSfvZA7YoheVLLXRRAQ.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/ZTLVWnGvZR/peYYur8RC4/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.proyectox.vip:8080/movie/9AhwRKcpLM/ee9fddb05151/140259.mkv
+#EXTINF:-1  group-title="VOD-ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.proyectox.vip:8080/movie/Abel23/fJvkFrcgEr/140259.mkv
+#EXTINF:-1  group-title="VOD-ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.proyectox.vip:8080/movie/ALopez042521/U4D2esgkwi/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.proyectox.vip:8080/movie/Gabrieltobar/07c9cfcc2e77/140259.mkv
+#EXTINF:-1  group-title="VOD-ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.proyectox.vip:8080/movie/JimmyH2021/U99uV4HAGB/140259.mkv
+#EXTINF:-1  group-title="VOD-ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.proyectox.vip:8080/movie/Mkk46t7fvu/62befaed1e2e/140259.mkv
+#EXTINF:-1  group-title="VOD-ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.proyectox.vip:8080/movie/w47terch4t/4f5f6f818b0a/140259.mkv
+#EXTINF:-1  group-title="VOD-ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.zapping.life:8080/movie/ALopez042521/U4D2esgkwi/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.zapping.life:8080/movie/JGira8708/jgira8708/140259.mkv
+#EXTINF:-1  group-title="VOD-ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.zapping.life:8080/movie/JimmyH2021/U99uV4HAGB/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.zapping.life:8080/movie/men492zajo53/eJcM9Dd8HR/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.zapping.life:8080/movie/MeybelynR/a40bb968779a/140259.mkv
+#EXTINF:-1  group-title="VOD-ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.zapping.life:8080/movie/Octavio12/db7b9f47575f/140259.mkv
+#EXTINF:-1  group-title="VOD-ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.zapping.life:8080/movie/PaolaPlaza/0d91a58cfda9/140259.mkv
+#EXTINF:-1  group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.zapping.life:8080/movie/Zheniortega/1c0d9cf5af1a/140259.mkv
+#EXTINF:-1  group-title="VOD ESPAÑOL 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://qd4dypab.g3awd.xyz:80/movie/3vi102167/KGrnCj8fV9C/1177791.mkv
+#EXTINF:-1  group-title="VOD-ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HU1IZ15U6EAkBdDujZRa73vzzD.jpg" tvg-name="Sorda (2025)",Sorda (2025)
+http://tv.diablotv.net:8080/movie/ZTLVWnGvZR/peYYur8RC4/140259.mkv
